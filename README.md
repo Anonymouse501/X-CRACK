@@ -3,10 +3,10 @@ Sebuah tools untuk mengekrek :v
 ![](https://komarev.com/ghpvc/?username=BOT-FB&color=yellow)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Welcome+to+script+tool)](https://git.io/typing-svg)
 >
-Nama Pembuat SC: [**FazryS**](https://github.com/Pazrysablenk)
+Nama Pembuat SC: [**mrX**](https://github.com/Anonymouse)
 > 
 ```
-Thanks to : FazryS
+Thanks to : Anonymouse
 ```
 >
 chat me :
@@ -26,10 +26,10 @@ pkg install git
 pip install request
 pip install bs4
 pip install rich
-git clone https://github.com/Anonymouse/
-cd Fast-Crack
+git clone https://github.com/Anonymouse/X-CRACK
+cd X-CRACK
 git pull
-python bot-FB.py
+python X-CRACK.py
 ```
 
 
