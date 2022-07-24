@@ -3,7 +3,7 @@ Sebuah tools untuk mengekrek :v
 ![](https://komarev.com/ghpvc/?username=BOT-FB&color=yellow)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Welcome+to+script+tool)](https://git.io/typing-svg)
 >
-Nama Pembuat SC: [**mrX**](https://github.com/Anonymouse)
+Nama Pembuat SC: [**mrX**](https://github.com/Anonymouse501)
 > 
 ```
 Thanks to : Anonymouse
@@ -26,7 +26,7 @@ pkg install git
 pip install request
 pip install bs4
 pip install rich
-git clone https://github.com/Anonymouse/X-CRACK
+git clone https://github.com/Anonymouse501/X-CRACK
 cd X-CRACK
 git pull
 python X-CRACK.py
