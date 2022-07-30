@@ -1,4 +1,4 @@
-# Fast-Crack
+# X-CRACK V.1.01
 Sebuah tools untuk mengekrek :v
 ![](https://komarev.com/ghpvc/?username=BOT-FB&color=yellow)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Welcome+to+script+tool)](https://git.io/typing-svg)
