@@ -23,7 +23,7 @@ termux-change-repo
 pkg update && pkg upgrade
 pkg install python
 pkg install git
-pip install request
+pip install requests
 pip install bs4
 pip install rich
 git clone https://github.com/Anonymouse501/X-CRACK
