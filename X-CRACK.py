@@ -150,7 +150,6 @@ if lesensi not in 'JAVS-OWBY-PABE-WQJA-AKDB':
     print ('\x1b[1;91mLISENSI IN VALID')
 if lesensi == 'JAVS-OWBY-PABE-WQJA-AKDB':
     print ('\x1b[1;92mLISENSI VALID')
-    back()
 #------------------[ MACHINE-SUPPORT ]---------------#
 def alvino_xy(u):
         for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.05)
